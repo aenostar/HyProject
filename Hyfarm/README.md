@@ -1,6 +1,8 @@
 # HYFARM EXE
 
-Aplikasi hyfarm.exe untuk menghitung harga crop Dll.
+Program untuk hypixel skyblock
+digunakan untuk menghitung keuntungan dalam farming
+dll
 
 Cara pakai:
 - Download dan Buka `hyfarm.exe` di Windows 10/11.
