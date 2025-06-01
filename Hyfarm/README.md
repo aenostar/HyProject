@@ -1,6 +1,6 @@
 # HYFARM EXE
 
-Aplikasi .exe untuk menghitung harga crop Dll.
+Aplikasi hyfarm.exe untuk menghitung harga crop Dll.
 
 Cara pakai:
 - Buka `hyfarm.exe` di Windows 10/11.
