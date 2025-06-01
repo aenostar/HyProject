@@ -1,7 +1,7 @@
 # HYFARM EXE
 
 Program untuk hypixel skyblock
-digunakan untuk menghitung keuntungan dalam farming
+digunakan dalam menghitung keuntungan farming
 dll
 
 Cara pakai:
